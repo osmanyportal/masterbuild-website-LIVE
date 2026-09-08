@@ -1,23 +1,15 @@
-# FULL site ZIP — wipe public_html, then extract this
+# GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-**File:** `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` (~10 MB)
+Complete standalone website. Extract into `public_html`.
 
-Complete production site. 398 files + folders. Includes homepage, all hubs, field tools, contact, Daily Code Talk posts, uploads/PDFs, vendor JS, `.htaccess`.
+~10 MB. 398 files. Includes `.htaccess` so `/field-tools/` and `/contact/` work (not only `/field-tools/index.html`).
 
-## GoDaddy (empty folder, then extract)
+## Extract
 
-1. Download `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` from this repo (file download icon, not Code → Download ZIP).
-2. File Manager → `public_html`.
-3. Enable **Show Hidden Files**.
-4. Delete everything currently in `public_html` (the site will be down until extract finishes).
-5. Upload this zip into the empty `public_html`.
-6. Check **Overwrite existing files**.
-7. Select the zip → **Extract** into `public_html` (the current folder). Wait until it finishes. Do not close the window.
-8. If a folder named `GODADDY-UPLOAD-...` was created, open it, select all, move everything up into `public_html`, delete the empty folder.
-9. Confirm `.htaccess`, `index.html`, `field-tools`, `css`, `js`, `about`, `contact`, `daily-code-talk`, `uploads`, `vendor` are all directly inside `public_html`.
-10. Delete the zip.
-11. Visit:
-    - https://masterbuildconsulting.com/
-    - https://masterbuildconsulting.com/field-tools/
-    - https://masterbuildconsulting.com/contact/
-    Hard-refresh (Ctrl+F5).
+1. Download **this file** with the download icon. Do not use Code → Download ZIP.
+2. File Manager → `public_html` → Show Hidden Files.
+3. Check **Overwrite existing files**.
+4. Upload the zip. Extract into `public_html`. Wait until it finishes.
+5. If a `GODADDY-UPLOAD-...` folder appears, move its contents up into `public_html`.
+6. Confirm `.htaccess` is in `public_html`. Delete the zip.
+7. Visit https://masterbuildconsulting.com/field-tools/ and https://masterbuildconsulting.com/contact/
