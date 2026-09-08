@@ -1,21 +1,22 @@
-# Extract this zip inside GoDaddy public_html
+# FULL site ZIP — wipe public_html, then extract this
 
-**File:** `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` (~720 KB)
+**File:** `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` (~10 MB)
 
-This replaces the previous 10 MB zip. It includes directory entries GoDaddy needs, a safer `.htaccess`, and only the pages that must be updated. It does **not** re-upload Daily Code Talk posts or PDFs already on the server.
+Complete production site. 398 files + folders. Includes homepage, all hubs, field tools, contact, Daily Code Talk posts, uploads/PDFs, vendor JS, `.htaccess`.
 
-## Steps
+## GoDaddy (empty folder, then extract)
 
-1. In File Manager, open `public_html`.
-2. Enable **Show Hidden Files**.
-3. Check **Overwrite existing files**.
-4. If you see a leftover `.htaccess` from the last extract, you may overwrite it with this zip.
-5. Upload `GODADDY-UPLOAD-masterbuild-website-LIVE.zip`.
-6. Select it → **Extract** into `public_html` (not into a subfolder).
-7. If extract created a folder named `GODADDY-UPLOAD-...`, open that folder, select all, move everything up into `public_html`, then delete the empty folder.
-8. Delete the zip.
-9. Confirm these folders exist in `public_html`: `field-tools`, `css`, `js`, `about`, `contact`.
-10. Visit:
+1. Download `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` from this repo (file download icon, not Code → Download ZIP).
+2. File Manager → `public_html`.
+3. Enable **Show Hidden Files**.
+4. Delete everything currently in `public_html` (the site will be down until extract finishes).
+5. Upload this zip into the empty `public_html`.
+6. Check **Overwrite existing files**.
+7. Select the zip → **Extract** into `public_html` (the current folder). Wait until it finishes. Do not close the window.
+8. If a folder named `GODADDY-UPLOAD-...` was created, open it, select all, move everything up into `public_html`, delete the empty folder.
+9. Confirm `.htaccess`, `index.html`, `field-tools`, `css`, `js`, `about`, `contact`, `daily-code-talk`, `uploads`, `vendor` are all directly inside `public_html`.
+10. Delete the zip.
+11. Visit:
     - https://masterbuildconsulting.com/
     - https://masterbuildconsulting.com/field-tools/
     - https://masterbuildconsulting.com/contact/
