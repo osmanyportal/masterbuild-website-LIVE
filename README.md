@@ -1,19 +1,24 @@
-# Masterbuild Consulting — GoDaddy production ZIP
+# Masterbuild Consulting — GoDaddy upload
 
-**File to upload from:** `masterbuild-website-LIVE.zip` (~11 MB)
+**Upload this one file:** `GODADDY-UPLOAD-masterbuild-website-LIVE.zip` (~10 MB)
 
-This is the 8 September 2026 Pass 3 production package.
+It already contains the website files at the zip root (`index.html`, `.htaccess`, `field-tools/`, etc.).
 
-## GoDaddy steps
+## GoDaddy File Manager
 
-1. Download `masterbuild-website-LIVE.zip` from this repository (green **Code** button → **Download ZIP** is the *repo*; you want the file itself).
-2. Click `masterbuild-website-LIVE.zip` in the file list, then the download icon.
-3. Unzip it on your computer.
-4. In GoDaddy File Manager, open `public_html`.
-5. Enable **Show Hidden Files**. Check **Overwrite existing files**.
-6. Upload the **contents** of the unzipped `public_html/` folder.
-7. Do not upload `_docs/` or this README.
+1. Open `public_html`.
+2. Enable **Show Hidden Files**.
+3. Check **Overwrite existing files**.
+4. Upload `GODADDY-UPLOAD-masterbuild-website-LIVE.zip`.
+5. Select the zip → **Extract**.
+6. Delete the zip after it extracts.
+7. Confirm `.htaccess` is there.
 
-Rollback copy: `masterbuildconsulting-ROLLBACK-original-baseline-2026-09.zip`
+Do **not** upload `masterbuild-website-LIVE-main.zip` (GitHub folder).
+Do **not** upload a ~188 MB grok-workspace zip.
+Do **not** upload the rollback zip.
 
-Do not use a ~188 MB `grok-workspace.zip`. That is not the website.
+After extract, visit:
+- https://masterbuildconsulting.com/
+- https://masterbuildconsulting.com/field-tools/
+- https://masterbuildconsulting.com/contact/
