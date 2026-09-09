@@ -1,23 +1,25 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 8). Extract into `public_html`.
+Complete standalone site (Pass 9). Extract into `public_html`.
 
-**Overwrite existing files** — GoDaddy left `about/index.html` stale last time (still missing PE 95945). Check overwrite. Show hidden files.
+Show Hidden Files. **Overwrite existing files** (especially `.htaccess`).
 
-Still omitted (as agreed): WASD, forensics/reserve studies, street address.
+Live issues this package fixes:
+- `/contact/` 404s on GoDaddy even though `/contact/index.html` works
+- `/about/` stayed stale (PE 95945 never overwrote)
 
-## New
-- `/license/` — Florida PE **95945** with MyFloridaLicense / FBPE (new folder, deploys even if About is skipped)
-- About now has a PE 95945 card at the top — must overwrite `about/index.html`
-- `/kitchen-plumbing-coordination/` — Type I hood vs grease interceptor
-- Field tool: hood vs interceptor
-- Spanish: `/hvac-tipo-de-construccion/`, `/imc-capitulo-1/`, `/plomeria-ingenieria-de-valor/`
+## New folders (deploy even if old files are skipped)
+- `/send/` — same intake form (homepage/nav/sticky now point here)
+- `/principal/` — current About with PE 95945
+- `/grease-duct-termination/` — IMC 506.3.13 (DCT #62)
+- `/licencia/` — Spanish PE 95945
+- `.htaccess` internally maps `/contact/` → `/send/` and `/about/` → `/principal/`
+
+Still omitted: WASD, forensics/reserve studies, street address.
 
 ## Extract
-
 1. Download **this file** (download icon). Not Code → Download ZIP.
-2. `public_html` → Show Hidden Files → **Overwrite existing files**.
-3. Upload. Extract into `public_html`. Wait.
-4. If a nested folder appears, move contents up.
-5. Confirm `.htaccess` and that `about/index.html` shows PE 95945.
-6. Visit https://masterbuildconsulting.com/license/ and https://masterbuildconsulting.com/about/
+2. `public_html` → Show Hidden Files → Overwrite.
+3. Extract into `public_html`. Wait.
+4. Confirm `.htaccess` mentions `send/index.html`.
+5. Visit https://masterbuildconsulting.com/send/ and https://masterbuildconsulting.com/principal/
