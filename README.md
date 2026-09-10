@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 54). Extract into `public_html`.
+Complete standalone site (Pass 55). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/chimney-offsets/` — IMC 805.4–805.5 (30° from vertical, four elbows, designed support)
-- `/positive-pressure-vent/` — IMC 801.9 (a leak pushes combustion products out)
-- Spanish: `/desvios-de-chimenea/`, `/ventilacion-a-presion-positiva/`
-- Field tool: **How many elbows are already in this chimney?**
+- `/medium-heat-chimneys/` — IMC 805.6 (above 1,000°F at the entrance → UL 959)
+- `/connector-clearance/` — IMC 803.10.6 (table 9 / 18 / 36 in; labeling governs; 308 only)
+- Spanish: `/chimeneas-de-calor-medio/`, `/separacion-de-conectores/`
+- Field tool: **What clearance does this connector need?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
