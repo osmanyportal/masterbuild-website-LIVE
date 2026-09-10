@@ -1,19 +1,18 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 40). Extract into `public_html`.
+Complete standalone site (Pass 41). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/miami-dade-permit-exemptions/` — HB 803 (July 1, 2026) does **not** exempt mechanical work; same-amp AC still needs a mechanical permit
-- `/miami-dade-how-to-apply/` — folio 30 portal, upfront fees before review, HVAC NOC exception under $15,000
+- `/ventilation-path/` — IMC 401.2 (tight dwellings are not windows-only; I-2 uses 407)
+- `/low-rise-residential-ventilation/` — IMC 403.3.2 Equation 4-9 (townhouses do not use the office OA table)
+- `/code-compliance-agency/` — IMC 103 (the reviewer is not the code official; wrong queue sits)
 - Spanish counterparts
-- Field tool 46 — “Does this still need a mechanical permit?”
+- Field tool 47 — Equation 4-9 QOA screen
 
-Sources (County):
-- https://www.miamidade.gov/global/permit.page?Mduid_permit=per1614110071046330
-- https://www.miamidade.gov/global/economy/building/how-to-apply-for-permit.page
+Also includes the restored IMC 115 link on `/mechanical-permits/` from Pass 40.
 
-Still omitted: WASD, forensics, Masterbuild street address. Excel not published. No 901.1. No NEC 110.26 numbers.
+Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
 Download **this file** (download icon). Not Code → Download ZIP.
