@@ -1,19 +1,20 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 12). Extract into `public_html`.
+Complete standalone site (Pass 13). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
-Includes Pass 11 pages (condensate, equipment-access) plus Pass 12.
+## New Daily Code Talk (owner-provided)
+- `/daily-code-talk/imc-805-factory-built-chimneys-recap/`
+- `/daily-code-talk/imc-806-1-metal-chimneys/` (#166)
+- `/daily-code-talk/imc-chapter-9-specific-appliances-kickoff/`
+- `/daily-code-talk/sparky-nec-100-continuous-load-demand-duty/` (#016)
+- `/daily-code-talk/sparky-nec-100-dry-damp-wet/` (#017)
 
-## New in this package
-- `/pre-submittal/` — printable MEP checklist
-- `/equipment-location/` — IMC 303
-- `/exhaust-discharge/` — IMC 501.3
-- `/dryer-exhaust/` — IMC 504
-- `/condensado/` `/acceso-equipos/` — Spanish 307/306
-- Field tools 15–16
+## Field hubs + tools 17–19
+- `/factory-built-chimneys/` `/metal-chimneys/` `/specific-appliances/`
+- `/continuous-load/` `/wet-location-electrical/`
 
-Still omitted: WASD, forensics/reserve studies, street address.
+Still omitted: WASD, forensics, street address.
 
 Download **this file** (download icon). Not Code → Download ZIP.
