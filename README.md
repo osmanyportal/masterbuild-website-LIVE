@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 82). Extract into `public_html`.
+Complete standalone site (Pass 83). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/plenum-materials/` — IMC 602.3.7–602.4 (25/50 listings, UL 2043, IBC 1612)
-- `/dust-explosion-control/` — IMC 510.1.5 (IFC explosion control is not “by others”)
-- Spanish: `/materiales-de-plenum/`, `/control-de-explosion-por-polvo/`
-- Field tool: **Is this foam, PVC, or gadget listed 25/50 for the plenum?**
+- `/hydrogen-ventilation/` — IMC 304.5 (ceiling-level relief; 850 sf; 0.5 sf / 1,000 cf)
+- `/battery-room-exhaust/` — IMC 502.3–502.5 (charging and stationary; not a transfer grille)
+- Spanish: `/ventilacion-de-hidrogeno/`, `/exhaust-de-cuartos-de-baterias/`
+- Field tool: **Natural, mechanical, or engineered — and are there two openings, ceiling and floor?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
