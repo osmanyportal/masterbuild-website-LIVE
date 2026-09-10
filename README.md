@@ -1,21 +1,19 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 11). Extract into `public_html`.
+Complete standalone site (Pass 12). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
-Pass 10 is live: makeup-air, change-of-occupancy.
+Includes Pass 11 pages (condensate, equipment-access) plus Pass 12.
 
 ## New in this package
-- `/condensate/` — IMC 307 overflow-path hub
-- `/equipment-access/` — IMC 306 30×30 / roof hatch hub
-- `/cambio-de-ocupacion/` — Spanish change of occupancy
-- Field tools 13–14 (condensate + access)
+- `/pre-submittal/` — printable MEP checklist
+- `/equipment-location/` — IMC 303
+- `/exhaust-discharge/` — IMC 501.3
+- `/dryer-exhaust/` — IMC 504
+- `/condensado/` `/acceso-equipos/` — Spanish 307/306
+- Field tools 15–16
 
 Still omitted: WASD, forensics/reserve studies, street address.
 
-## Extract
-1. Download **this file** (download icon). Not Code → Download ZIP.
-2. `public_html` → Show Hidden Files → Overwrite.
-3. Extract into `public_html`. Wait.
-4. Visit https://masterbuildconsulting.com/condensate/ and https://masterbuildconsulting.com/equipment-access/
+Download **this file** (download icon). Not Code → Download ZIP.
