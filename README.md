@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 15). Extract into `public_html`.
+Complete standalone site (Pass 16). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/uninhabited-spaces/` — IMC 406.1 attic/crawl
-- `/fire-smoke-dampers/` — IMC 607 hub
-- Spanish: `/espacios-no-habitados/` `/compuertas-corta-fuego/` `/descarga-de-extraccion/` `/escape-secadora/` `/ubicacion-de-equipos/`
-- Field tool 21 — attic/crawl 406 check
-- Leftover primary CTAs `/contact/` → `/send/`
+- `/domestic-cooking/` — IMC 505 vs 507 (400 cfm MUA)
+- `/permit-comment-worksheet/` — printable response skeleton
+- `/cocina-domestica/` `/instalacion-equipos/` — Spanish
+- Field tool 22 — 505 vs 507
+- Mechanical-code hub linked to new field pages
 
 Still omitted: WASD, forensics, street address.
 
