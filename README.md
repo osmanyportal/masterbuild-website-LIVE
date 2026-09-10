@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 85). Extract into `public_html`.
+Complete standalone site (Pass 86). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/hazmat-exhaust/` — IMC 502.8–502.10 (over MAQ; 1 cfm/ft²; no recirc; no fire dampers in HPM shafts)
-- `/plenum-wiring/` — IMC 602.3 (plenum cable, wet-pipe sprinkler only, UL 2043)
-- Spanish: `/exhaust-de-materiales-peligrosos/`, `/cableado-de-plenum/`
-- Field tool: **Over MAQ — dedicated exhaust, or a recirc grille and a fire damper?**
+- `/field-conversions/` — sea-level identities (1.08, 500, 12,000, ACH). Thumbs are not a load. Does **not** copy IMEG Green Sheets.
+- `/refrigerant-safety/` — ASHRAE 34 A/B + 2L, EPA 608. A2L is not a drop-in. Does **not** copy Trane tables.
+- Spanish: `/conversiones-de-campo/`, `/seguridad-de-refrigerantes/`
+- Field tools: **Does this number even belong on the sheet?** and **Is this A1, A2L, or B?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
