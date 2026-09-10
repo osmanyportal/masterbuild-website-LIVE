@@ -1,19 +1,17 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 9). Extract into `public_html`.
+Complete standalone site (Pass 10). Extract into `public_html`.
 
-Show Hidden Files. **Overwrite existing files** (especially `.htaccess`).
+Show Hidden Files. Overwrite existing files.
 
-Live issues this package fixes:
-- `/contact/` 404s on GoDaddy even though `/contact/index.html` works
-- `/about/` stayed stale (PE 95945 never overwrote)
+Live Pass 9 is confirmed: `/send/`, `/contact/`, `/principal/`, `/about/` (PE 95945), grease termination.
 
-## New folders (deploy even if old files are skipped)
-- `/send/` — same intake form (homepage/nav/sticky now point here)
-- `/principal/` — current About with PE 95945
-- `/grease-duct-termination/` — IMC 506.3.13 (DCT #62)
-- `/licencia/` — Spanish PE 95945
-- `.htaccess` internally maps `/contact/` → `/send/` and `/about/` → `/principal/`
+## New in this package
+- `/makeup-air/` — IMC 508 replacement air (not dining OA)
+- `/aire-de-reposicion/` — Spanish
+- `/change-of-occupancy-mep/` — office→restaurant/clinic MEP screen
+- Typical comments: grease termination, 401 vs 403, change of occupancy
+- Field-tool CTAs now use `/send/`
 
 Still omitted: WASD, forensics/reserve studies, street address.
 
@@ -21,5 +19,4 @@ Still omitted: WASD, forensics/reserve studies, street address.
 1. Download **this file** (download icon). Not Code → Download ZIP.
 2. `public_html` → Show Hidden Files → Overwrite.
 3. Extract into `public_html`. Wait.
-4. Confirm `.htaccess` mentions `send/index.html`.
-5. Visit https://masterbuildconsulting.com/send/ and https://masterbuildconsulting.com/principal/
+4. Visit https://masterbuildconsulting.com/makeup-air/ and https://masterbuildconsulting.com/change-of-occupancy-mep/
