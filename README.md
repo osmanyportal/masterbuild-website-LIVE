@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 14). Extract into `public_html`.
+Complete standalone site (Pass 15). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/equipment-installation/` — IMC 304 (18 in / FVIR / vestibule)
-- `/piping-support/` — IMC 305 (Table 305.4, 16-gage shields)
-- `/transfer-air/` — IMC 501.4 pressure / makeup path
-- `/aire-de-transferencia/` — Spanish
-- Field tool 20 — pressure / makeup check
+- `/uninhabited-spaces/` — IMC 406.1 attic/crawl
+- `/fire-smoke-dampers/` — IMC 607 hub
+- Spanish: `/espacios-no-habitados/` `/compuertas-corta-fuego/` `/descarga-de-extraccion/` `/escape-secadora/` `/ubicacion-de-equipos/`
+- Field tool 21 — attic/crawl 406 check
+- Leftover primary CTAs `/contact/` → `/send/`
 
 Still omitted: WASD, forensics, street address.
 
