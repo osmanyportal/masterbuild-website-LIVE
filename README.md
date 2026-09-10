@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 80). Extract into `public_html`.
+Complete standalone site (Pass 81). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/underground-ducts/` — IMC 603.8 (2 in concrete, leak test before burial, 4 in of earth)
-- `/duct-flood-weather/` — IMC 603.13–603.16 (IBC 1612, weather jacket, vehicle barriers)
-- Spanish: `/ductos-subterraneos/`, `/ductos-inundacion-clima/`
-- Field tool: **Is this duct in the earth — and was it leak-tested before burial?**
+- `/hazardous-exhaust-shafts/` — IMC 509.4 (do not mix; no common shafts; no perchloric manifold)
+- `/duct-smoke-installation/` — IMC 606.3 (NFPA 72; entire airflow; access)
+- Spanish: `/huecos-de-exhaust-peligroso/`, `/instalacion-de-detector-de-humo/`
+- Field tool: **Do these materials share a header — or a shaft with toilet exhaust?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
