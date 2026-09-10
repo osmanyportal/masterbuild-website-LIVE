@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 83). Extract into `public_html`.
+Complete standalone site (Pass 84). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/hydrogen-ventilation/` — IMC 304.5 (ceiling-level relief; 850 sf; 0.5 sf / 1,000 cf)
-- `/battery-room-exhaust/` — IMC 502.3–502.5 (charging and stationary; not a transfer grille)
-- Spanish: `/ventilacion-de-hidrogeno/`, `/exhaust-de-cuartos-de-baterias/`
-- Field tool: **Natural, mechanical, or engineered — and are there two openings, ceiling and floor?**
+- `/high-temperature-exhaust/` — IMC 510.2 (over 600°F is a Table 510.2 chimney)
+- `/plenum-construction/` — IMC 602.2 (gypsum 125°F; no supply in stud bays)
+- Spanish: `/exhaust-de-alta-temperatura/`, `/construccion-de-plenums/`
+- Field tool: **Is this outlet over 600°F — and which heat class is on the drawings?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
