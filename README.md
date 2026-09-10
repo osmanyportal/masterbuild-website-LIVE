@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 29). Extract into `public_html`.
+Complete standalone site (Pass 30). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/grounding-bonding/` — NEC 100 (the ground rod is not the fault path)
-- `/sccr-fault-current/` — NEC 100 (breaker IR is not package SCCR)
-- `/listed-labeled/` — NEC 100 (a listing mark is not a blank check)
+- `/readily-accessible/` — NEC 100 (a ladder is not readily accessible)
+- `/overcurrent/` — NEC 100 (a breaker trip is not a diagnosis)
+- `/service-boundaries/` — NEC 100 (a MAIN label is not the service point)
 - Spanish counterparts
-- Field tool 35 — SCCR vs interrupting-rating screen
+- Field tool 36 — readily accessible screen (no 110.26 dimensions)
 
 Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
