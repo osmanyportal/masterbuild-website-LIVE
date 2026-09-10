@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 78). Extract into `public_html`.
+Complete standalone site (Pass 79). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/hood-overhang/` — IMC 507.1.6 (6 in overhang; cfm does not fix geometry)
-- `/type-i-exhaust-fans/` — IMC 506.5 (motor out of airstream; hinge, cable, grease drain)
-- Spanish: `/voladizo-de-campana/`, `/ventiladores-tipo-i/`
-- Field tool: **Does this hood overhang 6 in — or is cfm supposed to fix the geometry?**
+- `/hood-exceptions/` — IMC 507.1 (“no hood required” needs a listing)
+- `/hood-interlocks/` — IMC 507.1.1–507.1.7 (auto-start, 15 min, capture test)
+- Spanish: `/excepciones-de-campana/`, `/interlocks-de-campana/`
+- Field tool: **Is this “no hood” path listed — or just hoped?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
