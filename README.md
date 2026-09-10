@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 55). Extract into `public_html`.
+Complete standalone site (Pass 56). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/medium-heat-chimneys/` — IMC 805.6 (above 1,000°F at the entrance → UL 959)
-- `/connector-clearance/` — IMC 803.10.6 (table 9 / 18 / 36 in; labeling governs; 308 only)
-- Spanish: `/chimeneas-de-calor-medio/`, `/separacion-de-conectores/`
-- Field tool: **What clearance does this connector need?**
+- `/chimney-insulation-shield/` — IMC 805.8 (factory-built chimney shield; distinct from 802.8 vents)
+- `/minimum-vent-size/` — IMC 801.6 (area, not matching pipe sizes)
+- Spanish: `/escudo-de-chimenea/`, `/tamano-minimo-de-ventilacion/`
+- Field tool: **Is this vent at least as big as the collar — by area?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
