@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 58). Extract into `public_html`.
+Complete standalone site (Pass 59). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/chimney-cleanouts/` — IMC 801.12–801.13 (12 in entrance, 6 in cleanout)
-- `/connector-dampers/` — IMC 803.5–803.7 (no manual damper except solid-fuel; smaller enters higher)
-- Spanish: `/limpiezas-de-chimenea/`, `/dampers-de-conectores/`
-- Field tool: **Is the cleanout below the connector — and still accessible?**
+- `/fireplace-flue-connection/` — IMC 801.10 (not a spare vent connection)
+- `/power-exhauster-termination/` — IMC 804.3.3–804.3.4 (10 ft lot line; overlay openings)
+- Spanish: `/conexion-a-tiro-de-chimenea/`, `/terminacion-de-extractor/`
+- Field tool: **Can this appliance connect to the fireplace flue?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
