@@ -1,17 +1,16 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 10). Extract into `public_html`.
+Complete standalone site (Pass 11). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
-Live Pass 9 is confirmed: `/send/`, `/contact/`, `/principal/`, `/about/` (PE 95945), grease termination.
+Pass 10 is live: makeup-air, change-of-occupancy.
 
 ## New in this package
-- `/makeup-air/` — IMC 508 replacement air (not dining OA)
-- `/aire-de-reposicion/` — Spanish
-- `/change-of-occupancy-mep/` — office→restaurant/clinic MEP screen
-- Typical comments: grease termination, 401 vs 403, change of occupancy
-- Field-tool CTAs now use `/send/`
+- `/condensate/` — IMC 307 overflow-path hub
+- `/equipment-access/` — IMC 306 30×30 / roof hatch hub
+- `/cambio-de-ocupacion/` — Spanish change of occupancy
+- Field tools 13–14 (condensate + access)
 
 Still omitted: WASD, forensics/reserve studies, street address.
 
@@ -19,4 +18,4 @@ Still omitted: WASD, forensics/reserve studies, street address.
 1. Download **this file** (download icon). Not Code → Download ZIP.
 2. `public_html` → Show Hidden Files → Overwrite.
 3. Extract into `public_html`. Wait.
-4. Visit https://masterbuildconsulting.com/makeup-air/ and https://masterbuildconsulting.com/change-of-occupancy-mep/
+4. Visit https://masterbuildconsulting.com/condensate/ and https://masterbuildconsulting.com/equipment-access/
