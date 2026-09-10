@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 86). Extract into `public_html`.
+Complete standalone site (Pass 87). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/field-conversions/` — sea-level identities (1.08, 500, 12,000, ACH). Thumbs are not a load. Does **not** copy IMEG Green Sheets.
-- `/refrigerant-safety/` — ASHRAE 34 A/B + 2L, EPA 608. A2L is not a drop-in. Does **not** copy Trane tables.
-- Spanish: `/conversiones-de-campo/`, `/seguridad-de-refrigerantes/`
-- Field tools: **Does this number even belong on the sheet?** and **Is this A1, A2L, or B?**
+- `/smoke-control/` — IMC 512 (IBC 909, not Section 910; one-page narrative)
+- `/salon-exhaust/` — IMC 502.20 (12 in from the chemicals; on whenever occupied)
+- Spanish: `/control-de-humo/`, `/exhaust-de-salon/`
+- Field tools: **Is this IBC 909 — or a 910 vent with a 512 label?** and **Are the inlets within 12 inches of the chemicals?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
