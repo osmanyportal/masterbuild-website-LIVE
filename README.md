@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 37). Extract into `public_html`.
+Complete standalone site (Pass 38). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/intake-protection/` — IMC 401.5 (brochure mesh is not Table 401.5; AMCA 550 in hurricane-prone regions)
-- `/notice-of-approval/` — IMC 107 (passing underground does not approve rough-in)
-- `/appeals/` — IMC 112 (the board cannot waive the code; no universal 30-day clock)
+- `/dust-exhaust-recirculation/` — IMC 510.1.3 (99.9% @ 10 µm + <25% LFL + monitor, or exhaust outdoors)
+- `/code-official/` — IMC 104 (the official can interpret, cannot waive)
+- `/imc-applicability/` — IMC 102 (“grandfathered” is not a drawing note)
 - Spanish counterparts
-- Field tool 43 — intake mesh vs Table 401.5
+- Field tool 44 — dust recirc 3-part check
 
 Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
