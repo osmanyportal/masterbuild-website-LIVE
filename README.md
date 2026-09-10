@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 28). Extract into `public_html`.
+Complete standalone site (Pass 29). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/mechanical-inspections/` — IMC 111
-- `/stop-work/` — IMC 115
-- `/flexible-ducts/` — IMC 607.7 (flex does not cross the rated line)
+- `/grounding-bonding/` — NEC 100 (the ground rod is not the fault path)
+- `/sccr-fault-current/` — NEC 100 (breaker IR is not package SCCR)
+- `/listed-labeled/` — NEC 100 (a listing mark is not a blank check)
 - Spanish counterparts
-- Field tool 34 — flex vs rated assembly
+- Field tool 35 — SCCR vs interrupting-rating screen
 
 Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
