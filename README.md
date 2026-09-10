@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 51). Extract into `public_html`.
+Complete standalone site (Pass 52). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/vent-termination-height/` — IMC 802.5–802.6 two height checks
-- `/plastic-vent/` — IMC 801.20–801.21 plastic is not plumbing; oil blocked-vent switch
-- Spanish: `/altura-de-terminacion/`, `/ventilacion-plastica/`
-- Field tool: **Does this Type L vent clear both height checks?**
+- `/connector-pass-through/` — IMC 803.10.4 (floor/ceiling not allowed; name the table system)
+- `/vent-insulation-shield/` — IMC 802.7–802.8 (collar does not hold the vent; 26 gage / 2 in)
+- Spanish: `/paso-de-conector/`, `/escudo-de-aislamiento/`
+- Field tool: **Can this connector pass through that wall?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
