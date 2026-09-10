@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 49). Extract into `public_html`.
+Complete standalone site (Pass 50). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/existing-chimneys/` — IMC 801.18 four gates (size, passageway, cleanout, clearance)
-- `/contamination-prevention/` — IMC 601.4 vents / exhaust through a return plenum
-- Spanish: `/chimeneas-existentes/`, `/prevencion-de-contaminacion/`
-- Field tools: **Can this existing chimney be reused?** and **Can this vent sit in the return plenum?**
+- `/abandoned-vent-openings/` — IMC 801.8 (cap by contractor is not a detail)
+- `/mechanical-draft/` — IMC 804.3 (fan on the roof is not the interlock)
+- Spanish: `/aberturas-abandonadas/`, `/tiro-mecanico/`
+- Field tool: **Where did the old appliance connect?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
