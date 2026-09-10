@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 36). Extract into `public_html`.
+Complete standalone site (Pass 37). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/nec-arrangement/` — NEC 90.3–90.6 (finding the section is not the whole job)
-- `/equipment-examination/` — NEC 90.7–90.9 (listing is for equipment as evaluated)
-- `/outdoor-air-intake/` — IMC 401.4 (measure from the nearest street edge)
+- `/intake-protection/` — IMC 401.5 (brochure mesh is not Table 401.5; AMCA 550 in hurricane-prone regions)
+- `/notice-of-approval/` — IMC 107 (passing underground does not approve rough-in)
+- `/appeals/` — IMC 112 (the board cannot waive the code; no universal 30-day clock)
 - Spanish counterparts
-- Field tool 42 — OA intake 10 / 25 / 3 screen
+- Field tool 43 — intake mesh vs Table 401.5
 
 Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
