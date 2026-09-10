@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 57). Extract into `public_html`.
+Complete standalone site (Pass 58). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/dedicated-solid-fuel-flue/` — IMC 801.11 (looks unused is not a dedicated flue)
-- `/multistory-common-vent/` — IMC 801.19 (two floors, one shaft)
-- Spanish: `/tiro-dedicado-solido/`, `/venting-comun-entre-pisos/`
-- Field tool: **Is this flue dedicated for the solid-fuel appliance?**
+- `/chimney-cleanouts/` — IMC 801.12–801.13 (12 in entrance, 6 in cleanout)
+- `/connector-dampers/` — IMC 803.5–803.7 (no manual damper except solid-fuel; smaller enters higher)
+- Spanish: `/limpiezas-de-chimenea/`, `/dampers-de-conectores/`
+- Field tool: **Is the cleanout below the connector — and still accessible?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
