@@ -1,19 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 13). Extract into `public_html`.
+Complete standalone site (Pass 14). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
-## New Daily Code Talk (owner-provided)
-- `/daily-code-talk/imc-805-factory-built-chimneys-recap/`
-- `/daily-code-talk/imc-806-1-metal-chimneys/` (#166)
-- `/daily-code-talk/imc-chapter-9-specific-appliances-kickoff/`
-- `/daily-code-talk/sparky-nec-100-continuous-load-demand-duty/` (#016)
-- `/daily-code-talk/sparky-nec-100-dry-damp-wet/` (#017)
-
-## Field hubs + tools 17–19
-- `/factory-built-chimneys/` `/metal-chimneys/` `/specific-appliances/`
-- `/continuous-load/` `/wet-location-electrical/`
+## New this pass
+- `/equipment-installation/` — IMC 304 (18 in / FVIR / vestibule)
+- `/piping-support/` — IMC 305 (Table 305.4, 16-gage shields)
+- `/transfer-air/` — IMC 501.4 pressure / makeup path
+- `/aire-de-transferencia/` — Spanish
+- Field tool 20 — pressure / makeup check
 
 Still omitted: WASD, forensics, street address.
 
