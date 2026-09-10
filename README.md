@@ -1,15 +1,15 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 21). Extract into `public_html`.
+Complete standalone site (Pass 22). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## New this pass
-- `/dust-conveying/` — IMC 510
-- `/subslab-soil-exhaust/` — IMC 511
-- `/energy-recovery/` — IMC 513 ERV eligibility
+- `/plenums/` — IMC 602
+- `/duct-insulation/` — IMC 604 (24 in coil discharge)
+- `/duct-smoke-detection/` — IMC 606 (2,000 cfm)
 - Spanish counterparts
-- Field tool 28 — ERV eligibility
+- Field tool 29 — duct smoke-detection threshold
 
 Still omitted: WASD, forensics, street address. No 901.1 (DCT #167 not posted). No NEC 110.26 numbers.
 
