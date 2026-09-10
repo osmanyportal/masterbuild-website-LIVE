@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 61). Extract into `public_html`.
+Complete standalone site (Pass 62). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/chimney-annular-space/` — IMC 801.17 (leftover space is not a second flue)
-- `/manually-fired-draft/` — IMC 804.3.8 (UL 378; fuel still burning when the fan stops)
-- Spanish: `/espacio-anular-de-chimenea/`, `/tiro-mecanico-encendido-manual/`
-- Field tool: **Is leftover chimney space being used as a second flue?**
+- `/solid-fuel-flue-size/` — IMC 801.7 (3:1 area cap; oversizing is the miss)
+- `/connector-construction/` — IMC 803.8–803.9 (galvanized without a gage is not a spec)
+- Spanish: `/tamano-de-tiro-solido/`, `/construccion-de-conectores/`
+- Field tool: **Is this flue too large for the solid-fuel appliance?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
