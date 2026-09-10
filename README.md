@@ -1,16 +1,14 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 43 QAQC). Extract into `public_html`.
+Complete standalone site (Pass 44 QAQC). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
-## This pass (organization / conversion — not more hubs)
-- `/start/` grouped by problem (permits, kitchen, ventilation, electrical, existing building)
-- `/field-tools/` TOC grouped + find-a-tool filter (48 screens still on the page)
-- `/field-knowledge/` map of hubs the way a permit set is reviewed
-- Homepage knowledge grid capped at 12 + “All field knowledge”
-- Daily Code Talk nav Contact → `/send/`
-- Spanish `/conocimiento-de-campo/`
+## This pass
+- Homepage / DCT / Resources CTAs: leftover `/contact/` → `/send/` (Spanish → `/contacto/`)
+- `/contact/` 301 + stub to `/send/` (query string kept)
+- Field-tools filter empty state
+- `/empezar/` Spanish start router
 
 Still omitted: WASD, forensics, street address. Excel not published. No 901.1. No NEC 110.26 numbers.
 
