@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 84). Extract into `public_html`.
+Complete standalone site (Pass 85). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/high-temperature-exhaust/` — IMC 510.2 (over 600°F is a Table 510.2 chimney)
-- `/plenum-construction/` — IMC 602.2 (gypsum 125°F; no supply in stud bays)
-- Spanish: `/exhaust-de-alta-temperatura/`, `/construccion-de-plenums/`
-- Field tool: **Is this outlet over 600°F — and which heat class is on the drawings?**
+- `/hazmat-exhaust/` — IMC 502.8–502.10 (over MAQ; 1 cfm/ft²; no recirc; no fire dampers in HPM shafts)
+- `/plenum-wiring/` — IMC 602.3 (plenum cable, wet-pipe sprinkler only, UL 2043)
+- Spanish: `/exhaust-de-materiales-peligrosos/`, `/cableado-de-plenum/`
+- Field tool: **Over MAQ — dedicated exhaust, or a recirc grille and a fire damper?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
