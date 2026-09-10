@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 53). Extract into `public_html`.
+Complete standalone site (Pass 54). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/vent-door-swing/` — IMC 802.9 (12 in to the full door swing; doorstops do not count)
-- `/decorative-shrouds/` — IMC 805.7 (listed for that specific chimney)
-- Spanish: `/giro-de-puerta/`, `/envolventes-decorativos/`
-- Field tool: **Does this door swing into the vent terminal?**
+- `/chimney-offsets/` — IMC 805.4–805.5 (30° from vertical, four elbows, designed support)
+- `/positive-pressure-vent/` — IMC 801.9 (a leak pushes combustion products out)
+- Spanish: `/desvios-de-chimenea/`, `/ventilacion-a-presion-positiva/`
+- Field tool: **How many elbows are already in this chimney?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
