@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 89). Extract into `public_html`.
+Complete standalone site (Pass 90). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/dust-recirculation/` — IMC 510.1.3 (99.9% @ 10 µm, <25% LFL, monitor — or outdoors)
-- `/smoke-control-hardware/` — IMC 512.10–512.12 (1.5× leak test, UL 864, 15-min UPS)
-- Spanish: `/recirculacion-de-polvo/`, `/equipo-de-control-de-humo/`
-- Field tools: **99.9% at 10 microns, under 25% LFL, and a monitor — or outdoors?** and **Is the smoke-control fan on standby power?**
+- `/smoke-barriers/` — IMC 512.5 (A/Aw leakage ratios; Class II 250°F damper at transfers)
+- `/cng-repair-exhaust/` — IMC 502.16 (inlets low, outlets high, fueling shuts down on exhaust failure)
+- Spanish: `/barreras-de-humo/`, `/exhaust-de-taller-cng/`
+- Field tools: **Does every opening in the smoke barrier have a damper?** and **Inlets low, outlets high — and does fueling die when exhaust fails?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
