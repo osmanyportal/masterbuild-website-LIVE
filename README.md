@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 92). Extract into `public_html`.
+Complete standalone site (Pass 93). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/source-capture-exhaust/` — IMC 502.14 (hose on the tailpipe where engines run in place)
-- `/spray-finish-exhaust/` — IMC 502.7 (gun dies if the fan dies; no default recirc)
-- Spanish: `/captura-en-la-fuente/`, `/exhaust-de-pintura/`
-- Field tools: **Do engines run in place — and is there a hose on the tailpipe?** and **Does the spray gun die when the fan dies?**
+- `/return-transfer-openings/` — IMC 601.5 undercuts, jump ducts, closet 1½ in / 30 in²
+- Field recommendation ~1 in² per cfm (labeled as rule of thumb, not a code minimum)
+- Spanish: `/aberturas-de-retorno/`
+- Field tool: **Is the undercut big enough — or do you need a jump duct?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
