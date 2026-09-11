@@ -1,13 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 88). Extract into `public_html`.
+Complete standalone site (Pass 89). Extract into `public_html`.
 
 Show Hidden Files. Overwrite existing files.
 
 ## This pass
-- `/smoke-control-methods/` — IMC 512.6–512.8 (0.05 in. w.g., 200 fpm, 6 ft layer, 20 min / 1.5×)
-- `/fuel-dispensing-exhaust/` — IMC 502.1.2 (≤ 18 in above the floor)
-- Spanish: `/metodos-de-control-de-humo/`, `/exhaust-de-despacho-de-combustible/`
-- Field tools: **Pressurize, airflow, or exhaust — and does the stair door still open?** and **Is the inlet within 18 inches of the floor?**
+- `/dust-recirculation/` — IMC 510.1.3 (99.9% @ 10 µm, <25% LFL, monitor — or outdoors)
+- `/smoke-control-hardware/` — IMC 512.10–512.12 (1.5× leak test, UL 864, 15-min UPS)
+- Spanish: `/recirculacion-de-polvo/`, `/equipo-de-control-de-humo/`
+- Field tools: **99.9% at 10 microns, under 25% LFL, and a monitor — or outdoors?** and **Is the smoke-control fan on standby power?**
 
 Download **this file** (download icon). Not Code → Download ZIP.
