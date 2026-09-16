@@ -1,13 +1,14 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-Complete standalone site (Pass 93). Extract into `public_html`.
+16 September 2026. Cache token `20260916-prod103`.
 
-Show Hidden Files. Overwrite existing files.
+Unzip. Upload the **contents of `public_html/`** into GoDaddy `public_html`.
+Show Hidden Files. Include `.htaccess` and `/library/`. Do not upload README or `_docs/`.
 
 ## This pass
-- `/return-transfer-openings/` — IMC 601.5 undercuts, jump ducts, closet 1½ in / 30 in²
-- Field recommendation ~1 in² per cfm (labeled as rule of thumb, not a code minimum)
-- Spanish: `/aberturas-de-retorno/`
-- Field tool: **Is the undercut big enough — or do you need a jump duct?**
+- `/commercial-dryer-exhaust/` — IMC 504.10–504.11 (no damper in the common shaft)
+- `/dry-cleaning-exhaust/` — IMC 502.6 (Type II 1 cfm/ft²; Type IV/V at the loading door)
+- Spanish: `/escape-secadora-comercial/`, `/exhaust-de-tintoreria/`
+- Field tools: **107** screens. New: commercial/multistory dryer shaft, dry-cleaning Type II / loading door.
 
 Download **this file** (download icon). Not Code → Download ZIP.
