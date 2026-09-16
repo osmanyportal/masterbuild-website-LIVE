@@ -1,14 +1,14 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-16 September 2026. Cache token `20260916-prod103`.
+16 September 2026. Cache token `20260916-prod104`.
 
 Unzip. Upload the **contents of `public_html/`** into GoDaddy `public_html`.
 Show Hidden Files. Include `.htaccess` and `/library/`. Do not upload README or `_docs/`.
 
 ## This pass
-- `/commercial-dryer-exhaust/` — IMC 504.10–504.11 (no damper in the common shaft)
-- `/dry-cleaning-exhaust/` — IMC 502.6 (Type II 1 cfm/ft²; Type IV/V at the loading door)
-- Spanish: `/escape-secadora-comercial/`, `/exhaust-de-tintoreria/`
-- Field tools: **107** screens. New: commercial/multistory dryer shaft, dry-cleaning Type II / loading door.
+- `/tire-buffing-exhaust/` — IMC 502.17 (NFPA 91; collector on the buffer)
+- `/firing-range-exhaust/` — IMC 502.18–502.19 (Chapter 4 + OSHA 1910.1025 lead; no invented fpm)
+- Spanish: `/exhaust-de-desbaste/`, `/exhaust-de-poligono/`
+- Field tools: **109** screens
 
 Download **this file** (download icon). Not Code → Download ZIP.
