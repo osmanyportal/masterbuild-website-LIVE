@@ -1,14 +1,13 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-16 September 2026. Cache token `20260916-prod120`.
+16 September 2026. Cache token `20260916-prod121`.
 
 Unzip. Upload the **contents of `public_html/`** into GoDaddy `public_html`.
 Show Hidden Files. Include `.htaccess` and `/library/`. Do not upload README or `_docs/`.
 
 ## This pass
-- `/boiler-furnace-room/` — IMC 304.8, a closet is not IBC protection
-- `/equipment-pad/` — IMC 304.10, 3 in above grade or suspend 6 in
-- `/area-served/` — IMC 304.12, tag the unit and the schedule
-- Field tools: **128** screens (`#md304b`)
+- PDFs: IMC 801.10 fireplace flue, 802.9 door swing, 801.14 exhauster inlet
+- `/cooling-tower-coordination/` — Chapter 9 is not mechanical-only (no invented 908)
+- Field tools: **129** screens (`#ch9app`)
 
 Download **this file** (download icon). Not Code → Download ZIP.
