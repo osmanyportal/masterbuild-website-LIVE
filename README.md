@@ -1,13 +1,14 @@
 # GODADDY-UPLOAD-masterbuild-website-LIVE.zip
 
-16 September 2026. Cache token `20260916-prod121`.
+16 September 2026. Cache token `20260916-prod122`.
 
 Unzip. Upload the **contents of `public_html/`** into GoDaddy `public_html`.
 Show Hidden Files. Include `.htaccess` and `/library/`. Do not upload README or `_docs/`.
 
 ## This pass
-- PDFs: IMC 801.10 fireplace flue, 802.9 door swing, 801.14 exhauster inlet
-- `/cooling-tower-coordination/` — Chapter 9 is not mechanical-only (no invented 908)
-- Field tools: **129** screens (`#ch9app`)
+- Daily Code Talk **#167–#171** (IMC 901–905) and Sparky **Article 110** through 110.14
+- Hubs: `/chapter-9-general/`, `/factory-built-fireplaces/`, `/fireplace-stoves/`, `/electrical-connections/`
+- Field tools: **130** screens (`#nec114`)
+- We do **not** invent 110.26 working-space numbers
 
 Download **this file** (download icon). Not Code → Download ZIP.
